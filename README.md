@@ -1,5 +1,2 @@
-# Physics-525-PWFA-Project
-In this repo, we will be using WarpX to explore Plasma Wakefield Acceleration. We have 3 benchmarks for this:
-1. We want to model the the longitudinal field that a drive beam creates in a plasma.
-2. We want to study how the witness beam gains energy from the wakefield and longitudinal focusing.
-3. We want to study beam loading AKA when we include a "trailing bunch," how the wakefield is changed.
+# Physics-525-PWFA-Exploration
+This repository contains all work related to the computational project of Physics 525 Intro to Plasmas in Spring 2026 taught by Rogerio Jorge. My co-author Jason and I (Avery) chose to study the 1D formulation and qualitative behavior in 1D and 2D of plasma wakefield acceleration. Namely, the longitudinal electric field created from the drive beam of the acceleration. We explain the process of coding, running the files, and results in the LaTeX report entitled "PWFA Report." Please read for instructions on how to run everything in the repository.
